@@ -7,6 +7,16 @@
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/ext/pom.xml" />
+        <option value="$PROJECT_DIR$/ext/reminder/common/pom.xml" />
+        <option value="$PROJECT_DIR$/ext/reminder/logic/pom.xml" />
+        <option value="$PROJECT_DIR$/ext/reminder/pom.xml" />
+        <option value="$PROJECT_DIR$/ext/reminder/rest-api/pom.xml" />
+        <option value="$PROJECT_DIR$/ext/reminder/rest-cxf/pom.xml" />
+      </set>
+    </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
