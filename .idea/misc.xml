@@ -11,9 +11,6 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/ext/reminder/common/pom.xml" />
-        <option value="$PROJECT_DIR$/ext/reminder/logic/pom.xml" />
-        <option value="$PROJECT_DIR$/ext/reminder/rest-api/pom.xml" />
-        <option value="$PROJECT_DIR$/ext/reminder/rest-cxf/pom.xml" />
       </set>
     </option>
   </component>

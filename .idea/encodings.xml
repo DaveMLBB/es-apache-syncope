@@ -5,6 +5,7 @@
     <file url="file://$PROJECT_DIR$/console/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/core/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/enduser/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ext/reminder/common-lib/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ext/reminder/common/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ext/reminder/logic/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ext/reminder/rest-api/src/main/java" charset="UTF-8" />
