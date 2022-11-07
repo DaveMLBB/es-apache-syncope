@@ -87,7 +87,6 @@ under the License.
     <module>console</module>
     <module>enduser</module>
     <module>ext</module>
-    <module>ext/reminder</module>
   </modules>
 
 </project>

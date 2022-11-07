@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a59ebf24-1cc1-4373-893f-f0b14197457a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ext/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ext/reminder/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ext/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ext/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ext/reminder/logic/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ext/reminder/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ext/reminder/rest-api/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ext/reminder/rest-cxf/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +28,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -95,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667842496551</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add ext module and create pom for logic">
+      <created>1667843739218</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667843739218</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,6 +123,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="Change logo admin console and End-user UI" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change logo admin console and End-user UI" />
+    <MESSAGE value="add ext module and create base for logic" />
+    <MESSAGE value="add ext module and create pom for logic" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ext module and create pom for logic" />
   </component>
 </project>
