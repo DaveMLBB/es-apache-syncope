@@ -5,13 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a59ebf24-1cc1-4373-893f-f0b14197457a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ext/reminder/rest-api/src/main/java/org/apache/syncope/common/rest/api/service/InfoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ext/reminder/rest-cxf/src/main/java/org/apache/syncope/core/rest/cxf/service/InfoServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ext/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/reminder/logic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ext/reminder/logic/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/reminder/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ext/reminder/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/reminder/rest-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ext/reminder/rest-api/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ext/reminder/rest-cxf/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ext/reminder/rest-cxf/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -169,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667848366254</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="non compila e non so il perche">
+      <created>1667852821719</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1667852821719</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,6 +191,7 @@
     <MESSAGE value="add reminder an write mod pom" />
     <MESSAGE value="add ext module" />
     <MESSAGE value="add logic" />
-    <option name="LAST_COMMIT_MESSAGE" value="add logic" />
+    <MESSAGE value="non compila e non so il perche" />
+    <option name="LAST_COMMIT_MESSAGE" value="non compila e non so il perche" />
   </component>
 </project>
