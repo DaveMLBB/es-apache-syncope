@@ -4,18 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a59ebf24-1cc1-4373-893f-f0b14197457a" name="Changes" comment="add ext module">
-      <change afterPath="$PROJECT_DIR$/ext/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ext/reminder/common-lib/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ext/reminder/common-lib/src/main/java/org/apache/syncope/common/lib/to/InfoRoute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ext/reminder/logic/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ext/reminder/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ext/reminder/rest-api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ext/reminder/rest-cxf/pom.xml" afterDir="false" />
+    <list default="true" id="a59ebf24-1cc1-4373-893f-f0b14197457a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ext/reminder/logic/src/main/java/org/apache/syncope/core/logic/InfoLogic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ext/reminder/logic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ext/reminder/logic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ext/reminder/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ext/reminder/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +73,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "C:/Users/User/Desktop/estirasa/eserciziotirasa/console/src/main/resources/img"
+    "last_opened_file_path": "C:/Users/User/Desktop/estirasa/eserciziotirasa/console/src/main/resources/img",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -152,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667847087032</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add ext module">
+      <created>1667847534845</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667847534845</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,8 +176,8 @@
     <MESSAGE value="Change logo admin console and End-user UI" />
     <MESSAGE value="add ext module and create base for logic" />
     <MESSAGE value="add ext module and create pom for logic" />
-    <MESSAGE value="add ext module" />
     <MESSAGE value="add reminder an write mod pom" />
-    <option name="LAST_COMMIT_MESSAGE" value="add reminder an write mod pom" />
+    <MESSAGE value="add ext module" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ext module" />
   </component>
 </project>
