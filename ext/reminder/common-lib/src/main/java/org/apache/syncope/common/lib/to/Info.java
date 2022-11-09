@@ -1,14 +1,14 @@
 package org.apache.syncope.common.lib.to;
 
-public class InfoRouteTO {
+public class Info {
 
     private Integer responseType;
     private String responseDesc;
 
-    public InfoRouteTO() {
+    public Info() {
     }
 
-    public InfoRouteTO(Integer responseType, String responseDesc) {
+    public Info(Integer responseType, String responseDesc) {
         this.responseType = responseType;
         this.responseDesc = responseDesc;
     }
